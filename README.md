@@ -10,7 +10,7 @@
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I'm also a History teacher!
 
-![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=leands0&show_icons=true&theme=radical)
+![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=techleandro&show_icons=true&theme=radical)
 
 ### 🛠 &nbsp;Languages and Tools :
 
