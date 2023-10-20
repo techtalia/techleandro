@@ -1,11 +1,11 @@
 ### Hi there, I'm Leandro Andrade
 
 
-
-- ✍️ Studying Full Stack Development at Generation Brasil.
-- 🌱 I’m currently learning Java and Js/React.
+- 🌱 I’m currently learning Java and Ts/React.
 - 💻 Full Stack Dev certified by Tera.
-- ☁️ AWS Fundamentals certified by Escola da Nuvem.
+- 💻 Java+React Full Stack Dev certified by Generation Brasil.
+- ☁️ AWS Cloud Practitioner certified by AWS Training and Certification.
+- ☁️ AWS Fundamentals certified by Escola da Nuvem. 
 - 💬 Ask me about anything hip-hop related.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I'm also a History teacher!
