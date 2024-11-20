@@ -1,16 +1,16 @@
-### Hi there, I'm Leandro Andrade
+### Hi there, I'm Nandi Andrade
 
 
-- 🌱 I’m currently learning Java and Ts/React.
+- 🌱 I’m currently learning Python and Ts/React.
 - 💻 Full Stack Dev certified by Tera.
 - 💻 Java+React Full Stack Dev certified by Generation Brasil.
 - ☁️ AWS Cloud Practitioner certified by AWS Training and Certification.
 - ☁️ AWS Fundamentals certified by Escola da Nuvem. 
 - 💬 Ask me about anything hip-hop related.
-- 😄 Pronouns: He/Him.
+- 😄 Pronouns: She/They.
 - ⚡ Fun fact: I'm also a History teacher!
 
-![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=techleandro&show_icons=true&theme=radical)
+![Nandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=techleandro&show_icons=true&theme=radical)
 
 ### 🛠 &nbsp;Languages and Tools :
 
