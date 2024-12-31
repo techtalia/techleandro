@@ -1,4 +1,4 @@
-### Hi there, I'm Nandi Andrade
+### Hi there, I'm Talia Andrade
 
 
 - 🌱 I’m currently learning Python and Ts/React.
@@ -10,7 +10,7 @@
 - 😄 Pronouns: She/They.
 - ⚡ Fun fact: I'm also a History teacher!
 
-![Nandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=technandi&show_icons=true&theme=radical)
+![Nandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=techtalia&show_icons=true&theme=radical)
 
 ### 🛠 &nbsp;Languages and Tools :
 
