@@ -1,4 +1,4 @@
-### Hi there, I'm Talia Andrade
+### Hi there
 
 
 - 🌱 I’m currently learning Python and Ts/React.
@@ -7,7 +7,6 @@
 - ☁️ AWS Cloud Practitioner certified by AWS Training and Certification.
 - ☁️ AWS Fundamentals certified by Escola da Nuvem. 
 - 💬 Ask me about anything hip-hop related.
-- 😄 Pronouns: She/They.
 - ⚡ Fun fact: I'm also a History teacher!
 
 ![Nandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=techtalia&show_icons=true&theme=radical)
