@@ -1,4 +1,4 @@
-### Hi there
+### Hi there, I'm Talia! 🐧
 
 
 - 🌱 I’m currently learning Python and Ts/React.
